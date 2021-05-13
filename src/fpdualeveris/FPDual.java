@@ -32,10 +32,11 @@ public class FPDual {
 		/*Se le descuentan dos dias*/
 		d2.decreaseHolidays(2);
 		
-		System.out.println("El empleado "+d2.getNombre()+" tiene ahora " +d2.showHolidays()+ " dias de vacaciones");
+		System.out.println("El empleado "+d2.getNombre()+" tiene ahora " +d2.showHolidays()+ " dias de vacaciones \n");
 
-		
-		
+		/*Consulta del dia vacacionales que disfrutan cada programador*/
+		/*No entiendo lo que hay que hacer*/
+		System.out.println("Cada programador tiene disfrutables " );
 	}
 
 }
